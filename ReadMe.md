@@ -28,9 +28,9 @@ Bu proje, Unity ve C# kullanılarak sıfırdan geliştirilmiş, prosedürel olar
 
 ##  Görseller
 
-![[Images/2025-11-13 03-49-55.gif]]
+![Oyun İçi GIF](Images/OyunGif.gif)
 
-![[Images/Pasted image 20251113035440.png]]
+![Unity Görsel](Images/UnityPhoto.png)
 
 | Başlangıç Ekranı                                 | Oyun İçi                                     | Oyun Bitti                                    |
 | ------------------------------------------------ | -------------------------------------------- | --------------------------------------------- |
