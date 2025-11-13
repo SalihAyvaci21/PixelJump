@@ -1,0 +1,45 @@
+Bu dosya, Unity'nin 1GB+ olan 'Library' klasörü gibi
+
+gereksiz dosyalarını GitHub'a yüklemeni engeller.
+
+BU DOSYAYI .git KLASÖRÜ OLUŞTURMADAN ÖNCE EKLEMEN GEREKİR.
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+Visual Studio dosyaları
+
+[Ee]xported[Oo]bj/
+.vs/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+Rider
+
+.idea/
+
+Mac
+
+.DS_Store
+
+Windows
+
+Thumbs.db

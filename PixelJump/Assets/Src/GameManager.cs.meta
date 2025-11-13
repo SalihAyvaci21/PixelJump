@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 249caec7c003d6d4b945b7b4c0f16ffe
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - puanText: {instanceID: 0}
+  - gameOverScreen: {instanceID: 0}
+  - finalScoreText: {instanceID: 0}
+  - player: {instanceID: 0}
+  - puanPrefab: {instanceID: 0}
+  - platformPrefab: {instanceID: 0}
+  - startingPlatform: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
